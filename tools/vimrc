@@ -39,7 +39,7 @@ exec "nohlsearch"
 set incsearch
 set ignorecase
 set smartcase
-
+"change something
 noremap <LEADER><CR> :nohlsearch<CR>
 noremap j h
 noremap k j
